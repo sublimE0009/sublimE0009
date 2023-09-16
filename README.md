@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sublimE0009
-- 👀 I’m interested in Data Science and Web Dev
-- 🌱 I’m currently learning ML
+
   
 
 <!---
